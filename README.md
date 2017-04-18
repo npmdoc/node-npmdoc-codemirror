@@ -1,9 +1,14 @@
-# api documentation for  [codemirror (v5.25.0)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-codemirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-codemirror)
+# npmdoc-codemirror
+
+#### api documentation for  [codemirror (v5.25.0)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-codemirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-codemirror)
+
 #### Full-featured in-browser code editor
 
-[![NPM](https://nodei.co/npm/codemirror.png?downloads=true)](https://www.npmjs.com/package/codemirror)
+[![NPM](https://nodei.co/npm/codemirror.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/codemirror)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-codemirror/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-codemirror_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-codemirror/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-codemirror/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-codemirror/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-codemirror/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-codemirror/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-codemirror/build/screenCapture.npmPackageListing.svg)
 
@@ -1970,13 +1975,11 @@
     "main": "lib/codemirror.js",
     "maintainers": [
         {
-            "name": "marijn",
-            "email": "marijnh@gmail.com"
+            "name": "marijn"
         }
     ],
     "name": "codemirror",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/codemirror/CodeMirror.git"
@@ -1991,16 +1994,6 @@
     "version": "5.25.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module codemirror](#apidoc.module.codemirror)
-
-
-
-# <a name="apidoc.module.codemirror"></a>[module codemirror](#apidoc.module.codemirror)
 
 
 
