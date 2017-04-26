@@ -1,6 +1,6 @@
 # npmdoc-codemirror
 
-#### api documentation for  [codemirror (v5.25.0)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-codemirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-codemirror)
+#### basic api documentation for  [codemirror (v5.25.2)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-codemirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-codemirror)
 
 #### Full-featured in-browser code editor
 
@@ -45,6 +45,9 @@
         },
         {
             "name": "Adam King"
+        },
+        {
+            "name": "Adam Particka"
         },
         {
             "name": "adanlobato"
@@ -629,6 +632,9 @@
             "name": "flack"
         },
         {
+            "name": "Florian Felten"
+        },
+        {
             "name": "ForbesLindesay"
         },
         {
@@ -822,6 +828,9 @@
         },
         {
             "name": "Jamie Hill"
+        },
+        {
+            "name": "Jamie Morris"
         },
         {
             "name": "Jan Jongboom"
@@ -1281,6 +1290,9 @@
             "name": "McBrainy"
         },
         {
+            "name": "mce2"
+        },
+        {
             "name": "melpon"
         },
         {
@@ -1450,6 +1462,9 @@
             "name": "pabloferz"
         },
         {
+            "name": "Pablo Zubieta"
+        },
+        {
             "name": "Page"
         },
         {
@@ -1570,6 +1585,9 @@
             "name": "Remi Nyborg"
         },
         {
+            "name": "Renaud Durlin"
+        },
+        {
             "name": "Richard Denton"
         },
         {
@@ -1643,6 +1661,9 @@
         },
         {
             "name": "sathyamoorthi"
+        },
+        {
+            "name": "Saul Costa"
         },
         {
             "name": "S. Chris Colbert"
@@ -1936,6 +1957,9 @@
             "name": "Zhang Hao"
         },
         {
+            "name": "Ziv"
+        },
+        {
             "name": "zziuni"
         },
         {
@@ -1956,10 +1980,10 @@
         "lib": "./lib"
     },
     "dist": {
-        "shasum": "78e06939c7bb41f65707b8aa9c5328111948b756",
-        "tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.0.tgz"
+        "shasum": "8c77677ca9c9248d757d3a07ed1e89a8404850b7",
+        "tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.2.tgz"
     },
-    "gitHead": "727b10ab632bdd4eaa41a6ca3766a5c50b5562da",
+    "gitHead": "2474ce6e2e1254812a7800b55fb7a295dc34669b",
     "homepage": "http://codemirror.net",
     "jspm": {
         "directories": {},
@@ -1991,7 +2015,8 @@
         "test": "node ./test/run.js",
         "watch": "rollup -w -c"
     },
-    "version": "5.25.0"
+    "version": "5.25.2",
+    "bin": {}
 }
 ```
 
